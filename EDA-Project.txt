@@ -3,7 +3,9 @@ Exploratory Data Analysis Project
 
 Brief about the Database
 
-The databse contains 6 tables talking about university ranking with a thousand universities in 74 different countries around the world. the ranking depends on 3 ranking systems, and different criteria used in each ranking system.the database that is available to us is from 2011 till 2016.
+The databse contains 6 tables talking about university ranking with a thousand universities in 74 different countries around the world. 
+the ranking depends on 3 ranking systems, and different criteria used in each ranking system.the database that is available to us
+is from 2011 till 2016.
 
 
 Table Explanations
