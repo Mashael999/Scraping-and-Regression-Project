@@ -3,9 +3,10 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 
 # About the repository:
-- [Project Proposal]()
-- [Jupyter Notebooks]()
-- [Slides Presentation]()
+- [Project Proposal](https://github.com/Mashael999/Weather-Observations-Regression-Project/tree/main/Proposal)
+- [Dataset](https://github.com/Mashael999/Weather-Observations-Regression-Project/tree/main/Dataset)
+- [Jupyter Notebooks](https://github.com/Mashael999/Weather-Observations-Regression-Project/tree/main/Code)
+- [Slides Presentation](https://github.com/Mashael999/Weather-Observations-Regression-Project/tree/main/Presentation)
 
 ### Contact Me
 For any questions please contact me <br/>
